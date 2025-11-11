@@ -1,0 +1,22 @@
+#root {
+  width: 50%;
+  margin: 0 auto;
+  padding: 2rem;
+  /* justify-content: center; */
+  /* padding-left: 500px; */
+  background-color: green;
+  color: wheat;
+}
+body {
+  padding: 20px;
+  margin-bottom: 10px;
+}
+button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.Container {
+  background-color: rgb(108, 165, 42);
+  border-radius: 40px;
+  padding: 10px;
+}
