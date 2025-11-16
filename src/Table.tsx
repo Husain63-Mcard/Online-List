@@ -13,7 +13,7 @@ interface Props {
 const Table = ({ expenses, onDelete }: Props) => {
   if (expenses.length === 0) return null;
   return (
-    <div>
+    <div className=".table-section">
       <table className="table table-bordered border-success">
         <thead>
           <tr>
